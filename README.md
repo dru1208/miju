@@ -1,2 +1,5 @@
-- To deploy: run `yarn deploy`
-- To access site: `https://dru1208.github.io/miju/`
+# Miju
+
+To deploy:
+1. yarn build
+2. yarn deploy
